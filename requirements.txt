@@ -4,5 +4,4 @@ easyocr
 numpy
 pillow
 opencv-python-headless
-streamlit-gsheets
 st-gsheets-connection
